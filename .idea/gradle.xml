@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\AndroidStudio\AndroidStudio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/day30_1_SlidingPaneLayout" />
+            <option value="$PROJECT_DIR$/day30_2_slidingpanelayout练习" />
+            <option value="$PROJECT_DIR$/day30_3_slidingmenu框架的使用" />
+            <option value="$PROJECT_DIR$/day30_4_draglayout的使用" />
+            <option value="$PROJECT_DIR$/day30_5_percentlayout" />
+            <option value="$PROJECT_DIR$/drag_library" />
+            <option value="$PROJECT_DIR$/library_slidingmenu" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/day30_1_SlidingPaneLayout" />
+            <option value="$PROJECT_DIR$/day30_2_slidingpanelayout练习" />
+            <option value="$PROJECT_DIR$/day30_3_slidingmenu框架的使用" />
+            <option value="$PROJECT_DIR$/day30_4_draglayout的使用" />
+            <option value="$PROJECT_DIR$/day30_5_percentlayout" />
+            <option value="$PROJECT_DIR$/drag_library" />
+            <option value="$PROJECT_DIR$/library_slidingmenu" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

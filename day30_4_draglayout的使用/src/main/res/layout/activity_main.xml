@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bluemor.reddotface.view.DragLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00ffc4"
+    android:id="@+id/draglayout"
+    tools:context="com.example.day30_4_draglayout.MainActivity">
+
+    <!--用于代表菜单-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#00aaff">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="菜单按钮"/>
+    </RelativeLayout>
+
+    <!--用于控制页面内容-->
+    <com.bluemor.reddotface.view.MyRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#9700ffb2">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="这里是内容部分"
+            android:textSize="40sp"/>
+    </com.bluemor.reddotface.view.MyRelativeLayout>
+</com.bluemor.reddotface.view.DragLayout>

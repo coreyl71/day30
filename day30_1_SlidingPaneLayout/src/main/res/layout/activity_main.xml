@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SlidingPaneLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/slidingpanelayout"
+    tools:context="com.example.administrator.day30.MainActivity">
+
+    <!--
+    添加子控件
+    第一个控件控制菜单显示
+    第二个控件控制内容页的显示
+    -->
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:background="#f00"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="click"
+            android:text="关闭菜单" />
+
+        <Button
+            android:id="@+id/btn_sec"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="click" />
+
+        <Button
+            android:id="@+id/btn_third"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="click" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f0f"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_first"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="first" />
+
+        <TextView
+            android:id="@+id/tv_second"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="second" />
+
+        <TextView
+            android:id="@+id/tv_third"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="third" />
+
+        <Button
+            android:id="@+id/btn_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="click"
+            android:text="打开菜单" />
+    </LinearLayout>
+</android.support.v4.widget.SlidingPaneLayout>

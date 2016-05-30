@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day30.iml" filepath="$PROJECT_DIR$/day30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day30_1_SlidingPaneLayout/day30_1_SlidingPaneLayout.iml" filepath="$PROJECT_DIR$/day30_1_SlidingPaneLayout/day30_1_SlidingPaneLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day30_2_slidingpanelayout练习/day30_2_slidingpanelayout练习.iml" filepath="$PROJECT_DIR$/day30_2_slidingpanelayout练习/day30_2_slidingpanelayout练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day30_3_slidingmenu框架的使用/day30_3_slidingmenu框架的使用.iml" filepath="$PROJECT_DIR$/day30_3_slidingmenu框架的使用/day30_3_slidingmenu框架的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day30_4_draglayout的使用/day30_4_draglayout的使用.iml" filepath="$PROJECT_DIR$/day30_4_draglayout的使用/day30_4_draglayout的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day30_5_percentlayout/day30_5_percentlayout.iml" filepath="$PROJECT_DIR$/day30_5_percentlayout/day30_5_percentlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drag_library/drag_library.iml" filepath="$PROJECT_DIR$/drag_library/drag_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_slidingmenu/library_slidingmenu.iml" filepath="$PROJECT_DIR$/library_slidingmenu/library_slidingmenu.iml" />
+    </modules>
+  </component>
+</project>
