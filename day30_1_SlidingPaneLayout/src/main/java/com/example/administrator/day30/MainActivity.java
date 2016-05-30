@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.i(TAG, "onPanelSlide: " + slideOffset);
             }
 
-            // 菜单打开后调用的方法
+            // 菜单打开后调用的方法.
             @Override
             public void onPanelOpened(View panel) {
                 Log.i(TAG, "onPanelOpened: ");
